@@ -1,1 +1,1 @@
-# This is INFO2180 Lab3 for Ronaldo Salmon
+# This is INFO2180 Lab 3 for Ronaldo Salmon
